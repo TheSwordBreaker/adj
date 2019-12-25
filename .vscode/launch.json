@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - Login",
+            "request": "launch",
+            "mainClass": "Login",
+            "projectName": "advancedJava_2618dfc5"
+        }
+    ]
+}
